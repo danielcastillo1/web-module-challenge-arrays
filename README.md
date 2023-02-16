@@ -18,7 +18,7 @@ Your challenge today will be to work with their array of ice cream flavors to ac
 ### Task 1: Set up Project
 
 Using VSCode and Command Line:
-
+test
 
 1. Fork the repo
 2. Go into canvas and connect your repo to codegrade
